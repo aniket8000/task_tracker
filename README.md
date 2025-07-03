@@ -24,7 +24,7 @@ A clean, responsive task tracking app built with React. It allows users to log i
 ## 🛠 Setup Instructions
 
 1. Clone the repository  
-git clone https://github.com/yourusername/personal-task-tracker.git
+git clone https://github.com/aniket8000/task_tracker.git
 cd personal-task-tracker
 
 2. Install dependencies
