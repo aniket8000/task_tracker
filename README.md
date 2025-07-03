@@ -45,7 +45,7 @@ CSS for styling (no external libraries)
 
 
  Screenshots:
-![alt text](<../../../../Downloads/Screenshot 2025-07-04 003748.png>)
+![alt text](<Screenshot 2025-07-04 003748.png>)
 
 ![alt text](<Screenshot 2025-07-04 003851.png>)
 
